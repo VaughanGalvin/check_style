@@ -1,0 +1,4 @@
+#Wed Feb 17 16:11:41 MSK 2021
+configuration*?=FFD57C502533D706DF3A2A98780174B2FFBD4E4B
+module-resource*?\:checkstyle-xpath-suppressions.xml=4F19BA88EC4599A2D6FD8F1EC007524282CAB965
+module-resource*?\:checkstyle-suppressions.xml=C04FBC5BD878353DE798DBB68A321B0974911118
